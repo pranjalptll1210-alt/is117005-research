@@ -9,7 +9,8 @@
 | Internship | 5 | Explicit internships; some require graduate study |
 | Entry-level | 4 | Three explicit new-grad roles and one inferred early-career infrastructure role with partial verification |
 | Mid-level | 4 | Three-year experience requirements or equivalent |
-| Senior / experienced / leadership | 7 | Explicit senior/leadership roles or five-plus-year requirements |
+| Experienced | 2 | Five-plus years required; no seniority stated in employer title |
+| Senior / leadership | 5 | Explicit senior, staff, management, director, or lead roles |
 | Unspecified | 1 | Employer gives no formal level or numeric threshold |
 
 Six postings include NJ and sixteen include NY; the J&J multi-location internship counts in both, so geography totals overlap. Local places include New York City, Jersey City, Piscataway, Rahway, New Brunswick, and Princeton, plus the partially verified Livingston role. These are sample counts, not regional market shares.
@@ -51,3 +52,20 @@ BLS provides broad occupational context, not a local FDE or agent-engineer vacan
 Growth is not uniform. [Computer network architects](https://www.bls.gov/ooh/computer-and-information-technology/computer-network-architects.htm) are projected to grow **8%**, while [network and computer systems administrators](https://www.bls.gov/ooh/computer-and-information-technology/network-and-computer-systems-administrators.htm) are projected to decline **4%** over 2025–2035. An AI infrastructure posting does not mean every adjacent IT occupation is expanding. The existing [growth research](/research) covers data science, research scientists, and information security.
 
 All links to directory records lead to the exact employer or source URL. See [methods and exclusions](/job-methodology) for verification limits.
+
+## What this review changes
+
+The strongest conclusion is **breadth of AI-related work**, not a ranking of the fastest-growing new titles. The examples span deployment, systems, reliability, security, governance, and adoption. Existing engineering and business skills are being applied to new AI responsibilities.
+
+For students, eligibility is a better starting point than a fashionable title. This sample contains **three explicit new-grad roles**, five internships with very different prerequisites, and one partially verified infrastructure role whose entry-level classification is an inference. The [student entry guide](/student-routes) compares those differences and separates employer requirements from suggested portfolio work.
+
+The directory now separates **employer title seniority** from our **research experience group**. Dentsu’s five-year requirements justify an experienced grouping; they do not make the employer’s Analyst or Engineer title a Senior title.
+
+## Questions the next research round must answer
+
+1. **Junior access:** Are there directly verified undergraduate or new-grad options in AI security, governance, IT, and infrastructure? Their limited coverage here is a sampling gap, not evidence that those opportunities do not exist.
+2. **Change over time:** Repeat a fixed set of searches with the same locations and inclusion criteria. Preserve requisition IDs, first/last seen dates, and closure status before comparing unique posting counts. Counts measure advertising activity, not hires or employment growth.
+3. **Skills and barriers:** Record required versus preferred skills, degree eligibility, prior experience, office attendance, and restrictions in separate fields. Do not infer that an omitted requirement is absent.
+4. **Regional coverage:** Expand employer coverage across NJ and NYC, including established employers and smaller firms, before making comparisons between the two locations.
+
+This page is a synthesis of the existing November 5 snapshot; it does not represent a new check of employer availability. The dataset supports career exploration, not hiring probabilities, representative salary estimates, or a local growth ranking.

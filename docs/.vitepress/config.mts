@@ -13,6 +13,7 @@ export default defineConfig({
     sidebar: [{ text: 'NY / NJ · Real job research', items: [
       { text: 'Search 21 real postings', link: '/jobs' },
       { text: 'Local findings', link: '/local-findings' },
+      { text: 'Student entry routes', link: '/student-routes' },
       { text: 'New titles & job families', link: '/title-map' },
       { text: 'Verification & exclusions', link: '/job-methodology' }
     ] }, { text: 'IS117005 · Research notebook', items: [

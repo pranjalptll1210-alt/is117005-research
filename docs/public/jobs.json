@@ -20,7 +20,8 @@
     "checked": "2026-11-05",
     "verification": "Employer detail verified",
     "status": "Apply control visible",
-    "sourceType": "Employer careers / employer ATS"
+    "sourceType": "Employer careers / employer ATS",
+    "titleSeniority": "Intern"
   },
   {
     "id": "coinbase-hr-intern",
@@ -43,7 +44,8 @@
     "checked": "2026-11-05",
     "verification": "Employer detail verified",
     "status": "Apply control visible",
-    "sourceType": "Employer careers / employer ATS"
+    "sourceType": "Employer careers / employer ATS",
+    "titleSeniority": "Intern"
   },
   {
     "id": "pace-fde-intern",
@@ -66,7 +68,8 @@
     "checked": "2026-11-05",
     "verification": "Employer detail verified",
     "status": "Apply control visible",
-    "sourceType": "Employer careers / employer ATS"
+    "sourceType": "Employer careers / employer ATS",
+    "titleSeniority": "Intern"
   },
   {
     "id": "jnj-cv-intern",
@@ -90,7 +93,8 @@
     "checked": "2026-11-05",
     "verification": "Employer detail verified",
     "status": "Apply control visible",
-    "sourceType": "Employer careers / employer ATS"
+    "sourceType": "Employer careers / employer ATS",
+    "titleSeniority": "Intern"
   },
   {
     "id": "merck-ai-comms-intern",
@@ -113,7 +117,8 @@
     "checked": "2026-11-05",
     "verification": "Employer detail verified",
     "status": "Apply control visible",
-    "sourceType": "Employer careers / employer ATS"
+    "sourceType": "Employer careers / employer ATS",
+    "titleSeniority": "Intern"
   },
   {
     "id": "hyphenate-newgrad",
@@ -136,7 +141,8 @@
     "checked": "2026-11-05",
     "verification": "Employer detail verified",
     "status": "Apply control visible",
-    "sourceType": "Employer careers / employer ATS"
+    "sourceType": "Employer careers / employer ATS",
+    "titleSeniority": "New graduate"
   },
   {
     "id": "chalk-newgrad",
@@ -159,7 +165,8 @@
     "checked": "2026-11-05",
     "verification": "Employer detail verified",
     "status": "Apply control visible",
-    "sourceType": "Employer careers / employer ATS"
+    "sourceType": "Employer careers / employer ATS",
+    "titleSeniority": "New graduate"
   },
   {
     "id": "decagon-newgrad",
@@ -182,7 +189,8 @@
     "checked": "2026-11-05",
     "verification": "Employer detail verified",
     "status": "Apply control visible",
-    "sourceType": "Employer careers / employer ATS"
+    "sourceType": "Employer careers / employer ATS",
+    "titleSeniority": "New graduate"
   },
   {
     "id": "genscript-agent",
@@ -205,7 +213,8 @@
     "checked": "2026-11-05",
     "verification": "Employer detail verified",
     "status": "Apply control visible",
-    "sourceType": "Employer careers / employer ATS"
+    "sourceType": "Employer careers / employer ATS",
+    "titleSeniority": "Not explicit in title"
   },
   {
     "id": "jpm-agent-iii",
@@ -228,7 +237,8 @@
     "checked": "2026-11-05",
     "verification": "Employer detail verified",
     "status": "Apply control visible",
-    "sourceType": "Employer careers / employer ATS"
+    "sourceType": "Employer careers / employer ATS",
+    "titleSeniority": "Engineer III"
   },
   {
     "id": "edra-fde",
@@ -251,7 +261,8 @@
     "checked": "2026-11-05",
     "verification": "Employer detail verified",
     "status": "Apply control visible",
-    "sourceType": "Employer careers / employer ATS"
+    "sourceType": "Employer careers / employer ATS",
+    "titleSeniority": "Not explicit in title"
   },
   {
     "id": "legora-workplace",
@@ -274,7 +285,8 @@
     "checked": "2026-11-05",
     "verification": "Employer detail verified",
     "status": "Apply control visible",
-    "sourceType": "Employer careers / employer ATS"
+    "sourceType": "Employer careers / employer ATS",
+    "titleSeniority": "Not explicit in title"
   },
   {
     "id": "ripple-ai-security",
@@ -284,7 +296,7 @@
     "states": [
       "NY"
     ],
-    "level": "Senior",
+    "level": "Senior / leadership",
     "levelBasis": "Explicit Senior Staff title; 10+ years security engineering.",
     "category": "Security",
     "kind": "AI-specific specialty",
@@ -297,7 +309,8 @@
     "checked": "2026-11-05",
     "verification": "Employer detail verified",
     "status": "Apply control visible",
-    "sourceType": "Employer careers / employer ATS"
+    "sourceType": "Employer careers / employer ATS",
+    "titleSeniority": "Senior Staff"
   },
   {
     "id": "mta-ai-security",
@@ -307,7 +320,7 @@
     "states": [
       "NY"
     ],
-    "level": "Senior",
+    "level": "Senior / leadership",
     "levelBasis": "Management responsibility and 5+ years relevant experience.",
     "category": "Security",
     "kind": "AI-specific specialty",
@@ -320,7 +333,8 @@
     "checked": "2026-11-05",
     "verification": "Employer detail verified",
     "status": "Apply control visible",
-    "sourceType": "Employer careers / employer ATS"
+    "sourceType": "Employer careers / employer ATS",
+    "titleSeniority": "Manager"
   },
   {
     "id": "langchain-evals",
@@ -330,7 +344,7 @@
     "states": [
       "NY"
     ],
-    "level": "Senior",
+    "level": "Senior / leadership",
     "levelBasis": "Explicit senior title; 5+ years backend engineering.",
     "category": "Evaluation & observability",
     "kind": "AI-specific specialty",
@@ -343,7 +357,8 @@
     "checked": "2026-11-05",
     "verification": "Employer detail verified",
     "status": "Apply control visible",
-    "sourceType": "Employer careers / employer ATS"
+    "sourceType": "Employer careers / employer ATS",
+    "titleSeniority": "Senior"
   },
   {
     "id": "dentsu-governance-analyst",
@@ -353,20 +368,21 @@
     "states": [
       "NY"
     ],
-    "level": "Senior",
-    "levelBasis": "Research classification: experienced track, 5+ years required despite Analyst title.",
+    "level": "Experienced",
+    "levelBasis": "Research classification: 5+ years required; employer title does not state seniority.",
     "category": "Governance & risk",
     "kind": "AI-specific specialty",
     "description": "Research AI vendors and prepare risk evidence and approval documentation for legal, security, and privacy reviewers.",
     "requirements": "5+ years governance, risk, consulting, vendor management, or intensive research; AI literacy and writing.",
     "pay": "$94,875–$130,000/year.",
     "timing": "Displayed as posted nine days before review.",
-    "notes": "R1130521. Senior is this directory’s experience bucket, not the employer’s title.",
+    "notes": "R1130521. Experienced is this directory’s research group, not an employer seniority designation.",
     "url": "https://dentsuaegis.wd3.myworkdayjobs.com/en-US/DAN_GLOBAL/job/New-York/AI-Governance-Analyst_R1130521",
     "checked": "2026-11-05",
     "verification": "Employer detail verified",
     "status": "Apply control visible",
-    "sourceType": "Employer careers / employer ATS"
+    "sourceType": "Employer careers / employer ATS",
+    "titleSeniority": "Not explicit in title"
   },
   {
     "id": "dentsu-governance-engineer",
@@ -376,8 +392,8 @@
     "states": [
       "NY"
     ],
-    "level": "Senior",
-    "levelBasis": "Research classification: 5+ years governance or enterprise delivery.",
+    "level": "Experienced",
+    "levelBasis": "Research classification: 5+ years required; employer title does not state seniority.",
     "category": "Governance & risk",
     "kind": "AI-specific specialty",
     "description": "Coordinate AI approvals and implement approved products across identity, cloud, ITSM, and service inventories.",
@@ -389,7 +405,8 @@
     "checked": "2026-11-05",
     "verification": "Employer detail verified",
     "status": "Apply control visible",
-    "sourceType": "Employer careers / employer ATS"
+    "sourceType": "Employer careers / employer ATS",
+    "titleSeniority": "Not explicit in title"
   },
   {
     "id": "acadia-ai-director",
@@ -399,7 +416,7 @@
     "states": [
       "NJ"
     ],
-    "level": "Senior",
+    "level": "Senior / leadership",
     "levelBasis": "Explicit director title; 8+ years overall and 4+ years hands-on agentic/LLM work.",
     "category": "AI platform leadership",
     "kind": "AI-specific specialty",
@@ -412,7 +429,8 @@
     "checked": "2026-11-05",
     "verification": "Employer detail verified",
     "status": "Apply control visible",
-    "sourceType": "Employer careers / employer ATS"
+    "sourceType": "Employer careers / employer ATS",
+    "titleSeniority": "Director"
   },
   {
     "id": "cloudflare-model-ops",
@@ -422,7 +440,7 @@
     "states": [
       "NY"
     ],
-    "level": "Senior",
+    "level": "Senior / leadership",
     "levelBasis": "People-management role requiring hiring and team-development experience; no numeric minimum stated.",
     "category": "Model operations",
     "kind": "AI-specific specialty",
@@ -435,7 +453,8 @@
     "checked": "2026-11-05",
     "verification": "Employer detail verified",
     "status": "Apply control visible",
-    "sourceType": "Employer careers / employer ATS"
+    "sourceType": "Employer careers / employer ATS",
+    "titleSeniority": "Lead"
   },
   {
     "id": "armory-strategist",
@@ -458,7 +477,8 @@
     "checked": "2026-11-05",
     "verification": "Employer detail verified",
     "status": "Apply control visible",
-    "sourceType": "Employer careers / employer ATS"
+    "sourceType": "Employer careers / employer ATS",
+    "titleSeniority": "Not explicit in title"
   },
   {
     "id": "coreweave-fleet",
@@ -482,6 +502,7 @@
     "verification": "Employer board + secondary detail",
     "status": "Listed on employer board; detail partially verified",
     "sourceType": "Employer board and secondary mirror",
-    "employerUrl": "https://www.coreweave.com/careers/job?gh_jid=4617382006&board=coreweave"
+    "employerUrl": "https://www.coreweave.com/careers/job?gh_jid=4617382006&board=coreweave",
+    "titleSeniority": "Not explicit in title"
   }
 ]

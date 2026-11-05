@@ -13,8 +13,8 @@ import JobDirectory from './.vitepress/theme/components/JobDirectory.vue'
 
 **21 researched postings:** 20 with employer descriptions and an Apply control visible, plus one CoreWeave posting verified on the employer’s board with details from a secondary source. This is a curated snapshot, not an exhaustive job census or a live feed.
 
-Search across **FDE, security, systems, IT, operations, governance, agent development, and research**. Read the requirements before treating a role as suitable for beginners. “Senior” includes experienced and leadership positions; inferred classifications are explained on each card.
+Search across **FDE, security, systems, IT, operations, governance, agent development, and research**. Read the requirements before treating a role as suitable for beginners. Research experience groups are separate from employer title seniority. “Experienced” covers the two Dentsu roles requiring five-plus years without a senior title; “Senior / leadership” covers five explicitly senior or leadership roles. Each card explains its classification.
 
-[Research findings](/local-findings) · [Title map](/title-map) · [Verification method](/job-methodology) · [Download research data (JSON)](/jobs.json)
+[Student entry routes](/student-routes) · [Research findings](/local-findings) · [Title map](/title-map) · [Verification method](/job-methodology) · [Download research data (JSON)](/jobs.json)
 
 <JobDirectory />

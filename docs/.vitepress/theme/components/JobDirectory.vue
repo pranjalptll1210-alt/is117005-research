@@ -6,7 +6,7 @@ const level = ref('All levels')
 const state = ref('NY + NJ')
 const category = ref('All specialties')
 const primaryOnly = ref(false)
-const levels = ['All levels', 'Internship', 'Entry-level', 'Mid-level', 'Senior', 'Unspecified']
+const levels = ['All levels', 'Internship', 'Entry-level', 'Mid-level', 'Experienced', 'Senior / leadership', 'Unspecified']
 const categories = ['All specialties', ...new Set(jobs.map(job => job.category))].sort()
 const filtered = computed(() => jobs.filter(job => {
   const text = [job.title, job.employer, job.location, job.category, job.requirements, job.description].join(' ').toLowerCase()
@@ -25,7 +25,7 @@ function reset() { query.value = ''; level.value = 'All levels'; state.value = '
       <label class="job-search">Search titles, companies, skills, or cities
         <input v-model="query" type="search" placeholder="Try FDE, security, Python, or Piscataway" />
       </label>
-      <label>Career level<select v-model="level"><option v-for="item in levels" :key="item">{{ item }}</option></select></label>
+      <label>Research experience group<select v-model="level"><option v-for="item in levels" :key="item">{{ item }}</option></select></label>
       <label>Location<select v-model="state"><option>NY + NJ</option><option value="NY">New York</option><option value="NJ">New Jersey</option></select></label>
       <label>Specialty<select v-model="category"><option v-for="item in categories" :key="item">{{ item }}</option></select></label>
       <label class="job-checkbox"><input v-model="primaryOnly" type="checkbox" /> Employer detail verified only</label>
@@ -43,7 +43,8 @@ function reset() { query.value = ''; level.value = 'All levels'; state.value = '
         <summary>Requirements, pay, timing & verification</summary>
         <dl>
           <dt>Required background</dt><dd>{{ job.requirements }}</dd>
-          <dt>Why this level?</dt><dd>{{ job.levelBasis }}</dd>
+          <dt>Employer title seniority</dt><dd>{{ job.titleSeniority }}</dd>
+          <dt>Why this research group?</dt><dd>{{ job.levelBasis }}</dd>
           <dt>Posted compensation</dt><dd>{{ job.pay }}</dd>
           <dt>Dates & deadlines</dt><dd>{{ job.timing }}</dd>
           <dt>Notes</dt><dd>{{ job.notes }}</dd>

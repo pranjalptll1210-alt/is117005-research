@@ -9,8 +9,8 @@ hero:
       text: Explore real local jobs →
       link: /jobs
     - theme: alt
-      text: What the postings reveal
-      link: /local-findings
+      text: Find a student entry route
+      link: /student-routes
 features:
   - title: 21 real job postings
     details: Internships through senior roles, with employers, locations, qualifications, and verification notes.
@@ -19,8 +19,8 @@ features:
     details: Explore FDE, agent engineering, security, systems, IT, governance, and model operations.
     link: /title-map
   - title: A path you can start
-    details: Compare technical, research, product, and governance careers and build a focused learning plan.
-    link: /pathways
+    details: Compare actual internship and new-grad eligibility, then choose a portfolio project tied to the work.
+    link: /student-routes
 ---
 
 <div class="research-label">Research brief · November 2026</div>
@@ -40,3 +40,7 @@ Organizations also need people who prepare data, deploy reliable systems, evalua
 </div>
 
 **Projected U.S. employment growth, 2025–2035**, rounded by BLS. These are broad occupations, not forecasts for every AI specialty. The all-occupation benchmark is 3%. [Sources and interpretation →](/research)
+
+## What the evidence teaches us
+
+AI work spans customer deployment, systems, security, governance, operations, and adoption. The sample establishes that these jobs exist; it does not establish which new title is growing fastest. Start with the [review’s findings and research gaps](/local-findings#what-this-review-changes), then compare [student eligibility and skills](/student-routes).

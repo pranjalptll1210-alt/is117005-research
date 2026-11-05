@@ -19,7 +19,9 @@ The [directory](/jobs) and [JSON dataset](/jobs.json) preserve the employer’s 
 - **Internship:** explicitly called an internship; degree eligibility is retained separately.
 - **Entry-level:** explicitly new graduate, or clearly identified as an inferred early-career route. CoreWeave is the sole inference here: two years is preferred, not a minimum, in its mirrored description.
 - **Mid-level:** this project’s bucket for the sampled roles requiring about three years without a senior title.
-- **Senior:** explicit senior/staff/leadership roles, or experienced roles requiring five-plus years. This does not rename the employer’s role; Dentsu’s Analyst remains an Analyst.
+- **Experienced:** five-plus years required without explicit title seniority; the two Dentsu roles.
+- **Senior / leadership:** explicit senior, staff, manager, director, or lead roles. This grouping does not imply all roles involve people management.
+- **Employer title seniority:** a separate field records only the designation visible in the title. “Not explicit in title” does not mean junior.
 - **Unspecified:** insufficient evidence for a level; used for Armory instead of guessing.
 
 A qualification is not converted into a recommendation. Graduate-study requirements, prior internships, language requirements, office attendance, and eligibility restrictions are preserved where material. A preferred skill is not silently converted into a minimum.

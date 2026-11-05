@@ -2,6 +2,8 @@
 
 This is a suggested student learning plan, not a promise of job readiness in a fixed number of weeks. Adapt it to your background and course workload.
 
+Start with the [student entry routes](/student-routes) to compare requirements from actual local postings. The plan below is educational guidance, not a list of employer requirements.
+
 ## Start with a shared foundation
 
 Learn Git, basic Python or JavaScript, data literacy, and clear technical writing. Practice reading documentation, checking outputs, and explaining limitations. For model-building paths, add probability, statistics, and linear algebra.

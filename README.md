@@ -14,6 +14,10 @@ Reviewed in Chrome on November 5, 2026: 20 employer descriptions with visible Ap
 
 See [methodology and exclusions](docs/job-methodology.md), [title map](docs/title-map.md), and [structured research data](docs/public/jobs.json). This is a dated sample, not an exhaustive or live job feed.
 
+## Lessons from the research
+
+AI careers span deployment, infrastructure, security, governance, and adoption. The sample demonstrates breadth, not title-level growth rates. The [student entry guide](https://pranjalptll1210-alt.github.io/is117005-research/student-routes.html) compares actual eligibility and skills; [review findings and next questions](https://pranjalptll1210-alt.github.io/is117005-research/local-findings.html#what-this-review-changes) explain the evidence limits. Employer title seniority is stored separately from the directory’s research experience group.
+
 ## Research contents
 
 - Ten career profiles covering data science, ML engineering, AI agents, MLOps, evaluation, security, governance, product, data engineering, and research.
