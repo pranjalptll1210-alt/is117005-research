@@ -2,6 +2,10 @@
 
 **Research reviewed:** November 5, 2026. **Project:** IS117005 AI Career Atlas.
 
+## Employer posting research
+
+The [NY/NJ directory](/jobs) adds 21 real requisitions reviewed in Chrome. Each record links its source and explains verification and level classification. See [methods and exclusions](/job-methodology) and the [downloadable dataset](/jobs.json).
+
 ## Source register
 
 | Source | Scope / date | Used for | Limitation |
@@ -30,7 +34,7 @@
 
 ## What this project does not measure
 
-It does not sample job postings, verify local vacancies, rank every AI occupation, or forecast salaries. Emerging titles are illustrative and may overlap. The research is a dated snapshot; revisit sources before using it for a personal career decision.
+The original overview does not rank every AI occupation or forecast salaries. The separate NY/NJ directory now examines a purposive sample of employer postings, with its verification limits documented. Emerging titles are illustrative and may overlap. The research is a dated snapshot; revisit sources before using it for a personal career decision.
 
 ## Updating the research
 

@@ -32,6 +32,6 @@ These are emerging specializations, not ten newly invented occupations. Read act
 
 ## Research limits
 
-Growth is a projection, not a guarantee of employment. A growing occupation can still have competitive entry-level hiring. Employer surveys measure expectations and do not represent every employer. This project does not count live vacancies or claim that every listed specialty is among the fastest-growing jobs. Portfolio suggestions and entry routes are educational recommendations, not hiring requirements.
+Growth is a projection, not a guarantee of employment. A growing occupation can still have competitive entry-level hiring. Employer surveys measure expectations and do not represent every employer. The separate [NY/NJ posting study](/local-findings) examines real employer listings. It is a dated sample, not a live vacancy census, and does not establish that every specialty is among the fastest-growing jobs. Portfolio suggestions and entry routes are educational recommendations, not hiring requirements.
 
 Continue with the [career profiles](/careers), [comparison](/compare), or [source register](/sources).

@@ -1,6 +1,8 @@
 # Explore 10 AI career paths
 
-These profiles are educational summaries, not copied job advertisements. Titles and requirements vary by employer. **Evidence labels distinguish official occupations, adjacent forecasts, and emerging specialties.** Suggested entry routes and portfolio projects are this project’s recommendations.
+For actual employer titles, requirements, and local locations, use the [NY/NJ job directory](/jobs).
+
+These background profiles are educational summaries, not copied job advertisements. Titles and requirements vary by employer. **Evidence labels distinguish official occupations, adjacent forecasts, and emerging specialties.** Suggested entry routes and portfolio projects are this project’s recommendations.
 
 ## Data scientist
 

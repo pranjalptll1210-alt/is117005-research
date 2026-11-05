@@ -6,6 +6,14 @@ A VitePress research website exploring growing AI careers, emerging job titles, 
 
 **Repository:** [pranjalptll1210-alt/is117005-research](https://github.com/pranjalptll1210-alt/is117005-research)
 
+## Real NY/NJ job research
+
+[Search the 21 researched job postings](https://pranjalptll1210-alt.github.io/is117005-research/jobs.html) · [Findings](https://pranjalptll1210-alt.github.io/is117005-research/local-findings.html)
+
+Reviewed in Chrome on November 5, 2026: 20 employer descriptions with visible Apply controls, plus one employer-board listing with a secondary description. Covers internships, entry-level, mid-level, senior, and unclassified roles across FDE, security, systems, IT, agent development, operations, governance, and research. Includes six NJ and sixteen NY location matches (one overlaps).
+
+See [methodology and exclusions](docs/job-methodology.md), [title map](docs/title-map.md), and [structured research data](docs/public/jobs.json). This is a dated sample, not an exhaustive or live job feed.
+
 ## Research contents
 
 - Ten career profiles covering data science, ML engineering, AI agents, MLOps, evaluation, security, governance, product, data engineering, and research.
@@ -44,4 +52,4 @@ The VitePress base path is `/is117005-research/`. If the repository name changes
 
 ## Research integrity
 
-Occupational forecasts do not guarantee jobs and should not be assigned to emerging titles without evidence. Career summaries and project ideas are educational synthesis; they are not live job postings.
+Occupational forecasts do not guarantee jobs and should not be assigned to emerging titles without evidence. Background career summaries and project ideas are educational synthesis. The separate local directory contains researched employer postings with explicit verification dates and limitations.

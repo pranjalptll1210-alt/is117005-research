@@ -2,28 +2,32 @@
 layout: home
 hero:
   name: AI Career Atlas
-  text: Find your place in the future of work.
+  text: Discover real AI careers in NY & NJ.
   tagline: An IS117005 research project exploring growing AI careers, emerging job titles, and the skills that turn curiosity into opportunity.
   actions:
     - theme: brand
-      text: Explore the careers →
-      link: /careers
+      text: Explore real local jobs →
+      link: /jobs
     - theme: alt
-      text: Read the research
-      link: /research
+      text: What the postings reveal
+      link: /local-findings
 features:
-  - title: 10 career profiles
-    details: Understand the work, practical skills, entry routes, and portfolio evidence for each role.
-    link: /careers
-  - title: Evidence before hype
-    details: Official U.S. employment projections and global employer research, with emerging specialties clearly labeled.
-    link: /research
+  - title: 21 real job postings
+    details: Internships through senior roles, with employers, locations, qualifications, and verification notes.
+    link: /jobs
+  - title: Beyond model building
+    details: Explore FDE, agent engineering, security, systems, IT, governance, and model operations.
+    link: /title-map
   - title: A path you can start
     details: Compare technical, research, product, and governance careers and build a focused learning plan.
     link: /pathways
 ---
 
 <div class="research-label">Research brief · November 2026</div>
+
+## Research grounded in actual employer postings
+
+Start with the [NY/NJ job directory](/jobs), [local findings](/local-findings), and [verification method](/job-methodology). Twenty employer descriptions were verified directly; one additional infrastructure role has partial verification. The original career guides remain available as background.
 
 ## AI careers extend beyond building models
 

@@ -9,8 +9,13 @@ export default defineConfig({
   themeConfig: {
     siteTitle: 'AI Career Atlas',
     socialLinks: [{ icon: 'github', link: 'https://github.com/pranjalptll1210-alt/is117005-research' }],
-    nav: [{ text: 'Research', link: '/research' }, { text: 'Career profiles', link: '/careers' }, { text: 'Your pathway', link: '/pathways' }, { text: 'Sources', link: '/sources' }],
-    sidebar: [{ text: 'IS117005 · Research notebook', items: [
+    nav: [{ text: 'NY/NJ jobs', link: '/jobs' }, { text: 'Research', link: '/research' }, { text: 'Career profiles', link: '/careers' }, { text: 'Your pathway', link: '/pathways' }, { text: 'Sources', link: '/sources' }],
+    sidebar: [{ text: 'NY / NJ · Real job research', items: [
+      { text: 'Search 21 real postings', link: '/jobs' },
+      { text: 'Local findings', link: '/local-findings' },
+      { text: 'New titles & job families', link: '/title-map' },
+      { text: 'Verification & exclusions', link: '/job-methodology' }
+    ] }, { text: 'IS117005 · Research notebook', items: [
       { text: 'Overview & findings', link: '/research' },
       { text: 'Career profiles', link: '/careers' },
       { text: 'Compare career options', link: '/compare' },
